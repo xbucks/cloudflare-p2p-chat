@@ -1,0 +1,4 @@
+credentials.conf
+metadata.json
+.wrangler/
+node_modules/
